@@ -42,6 +42,20 @@
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/193c5abb-cff5-4f39-9929-17891b4f2916)
 
 ### Solution: 
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/9f0913b5-2998-4dce-9154-4bf32ee1707f)
 
 ### Output: 
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/256bc86a-cedd-41db-9cb7-ee3c47d140d1)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+## 5. Count the number of movies that Abigail Breslin was nominated for an oscar.
+
+### Daatset: [1 Table]
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/b68fd0fe-c6d1-4c8a-802e-e820fec94f5f)
+
+### Solution:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/b4395ecd-c75a-4d31-8c79-4bca711546db)
+
+### Output:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/d979b05b-20c3-4f2d-bb09-ded5b53c65dc)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
