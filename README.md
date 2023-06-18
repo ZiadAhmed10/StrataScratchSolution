@@ -8,7 +8,7 @@
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/ac47c855-8fef-4a9e-9209-2147bd194ade)
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/af1042af-afcb-4df9-9e31-84b71ed1fb54)
 
-## Solution:
+### Solution:
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/1abc4e62-05e1-4ba5-b28b-5b41443eedc4)
 
 ### Output:
@@ -19,10 +19,10 @@
 ### Dataset: [1 Table]
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/98b7e000-78e1-4615-9e74-c0951b46a8da)
 
-## Solution:
+### Solution:
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/eda8c961-4387-4992-870d-66616e94e87d)
 
-## Output:
+### Output:
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/bb4a0124-044f-46bf-8e4d-6b21743b5827)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ## 3. Find the last time each bike was in use. Output both the bike number and the date-timestamp of the bike's last use (i.e., the date-time the bike was returned). Order the results by bikes that were most recently used.
@@ -33,7 +33,7 @@
 ### Solution:
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/c74a2bb5-80ef-4e6e-a524-4a52bb89394b)
 
-#### Output:
+### Output:
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/8f4c9276-cec9-418b-a97f-24992ffb64cf)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ## 4. Find the number of rows for each review score earned by 'Hotel Arena'. Output the hotel name (which should be 'Hotel Arena'), review score along with the corresponding number of rows with that score for the specified hotel.
