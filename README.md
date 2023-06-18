@@ -64,40 +64,63 @@
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/36647aad-5e13-419d-aae6-3223460ac757)
 
 ### Solution:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/fb03633c-b4fd-4b9d-9ed5-371c6bb51767)
 
 ### Output:
---------------------------------------------------------------------------------------------------------------------------------------------------
-## 7.
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/36523f2e-6d66-4c6c-84d7-eef5ab1887ed)
 
-### Daatset: [1 Table]
+--------------------------------------------------------------------------------------------------------------------------------------------------
+## 7. Meta/Facebook has developed a new programing language called Hack.To measure the popularity of Hack they ran a survey with their employees. The survey included data on previous programing familiarity as well as the number of years of experience, age, gender and most importantly satisfaction with Hack. Due to an error location data was not collected, but your supervisor demands a report showing average popularity of Hack by office location. Luckily the user IDs of employees completing the surveys were stored.
+## Based on the above, find the average popularity of the Hack per office location.
+## Output the location along with the average popularity.
+
+### Daatset: [2 Tables]
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/8cd51cbc-921b-4d7e-8b93-3e28a561eff9)
 
 ### Solution:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/dda2c0fb-1f17-4994-9e3c-0dcb88495f02)
 
 ### Output:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/a5d7966c-1245-4f70-b4f3-15cd93640847)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
-## 8.
+## 8. Find all Lyft drivers who earn either equal to or less than 30k USD or equal to or more than 70k USD. Output all details related to retrieved records.
 
 ### Daatset: [1 Table]
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/e5dc1f8f-5d2d-4af9-b422-720106713e2d)
 
 ### Solution:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/302b5e9e-43db-4334-ad31-ed9a9c94ebe8)
 
 ### Output:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/be7cbf3c-da8c-46d5-8bd4-f379976f8984)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
-## 9.
+## 9. Find how many times each artist appeared on the Spotify ranking list
+## Output the artist name along with the corresponding number of occurrences.
+## Order records by the number of occurrences in descending order.
 
 ### Daatset: [1 Table]
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/02afba1d-2b58-439b-bb4f-198c1da4f130)
 
 ### Solution:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/7f5d029e-3509-450b-a39d-c2dcad30ae95)
 
 ### Output:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/c1301d2f-9eb8-47ec-ae03-d2d5d64b7ddc)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
-## 10.
+## 10. Find the base pay for Police Captains. Output the employee name along with the corresponding base pay.
 
 ### Daatset: [1 Table]
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/b737fa6b-4104-46ad-ae92-398158de90c7)
 
 ### Solution:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/70f26239-885e-4610-8aad-9a98af70bea5)
 
 ### Output:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/249b3537-d0bb-4d7e-b645-f63daec41a07)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ## 11.
 
