@@ -19,3 +19,19 @@
 ### Dataset: [1 Table]
 ![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/98b7e000-78e1-4615-9e74-c0951b46a8da)
 
+## Solution:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/eda8c961-4387-4992-870d-66616e94e87d)
+
+## Output:
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/bb4a0124-044f-46bf-8e4d-6b21743b5827)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+### 3. Find the last time each bike was in use. Output both the bike number and the date-timestamp of the bike's last use (i.e., the date-time the bike was returned). Order the results by bikes that were most recently used.
+
+### Dataset: [1 Table]
+![image](https://github.com/ZiadAhmed10/StrataScratchSolution/assets/121814714/c633453a-3fa2-4c17-a0f7-d17119d642e7)
+
+### Solution:
+
+#### Output:
+
+
